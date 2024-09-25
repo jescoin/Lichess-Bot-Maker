@@ -28,4 +28,4 @@ Run **makebot.py**
 After this if you want to create bot write 1, or if you want see the BOTs which our script made, write 2. 
 
 
-![jesbot]([https://imgur.com/uIW7cLb](https://i.imgur.com/f5zenjf.png))
+![jesbot](https://i.imgur.com/f5zenjf.png)
